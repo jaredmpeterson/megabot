@@ -1,6 +1,6 @@
 {
   "name": "megabot",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "private": true,
   "author": "developer@peteyinc.com",
   "description": "MEGABOT",
@@ -17,7 +17,8 @@
     "hubot-rules": "^0.1.1",
     "hubot-scripts": "^2.17.2",
     "hubot-shipit": "^0.2.0",
-    "hubot-slack": "^4.1.0"
+    "hubot-slack": "^4.1.0",
+    "hubot-thesimpsons": "^1.1.4"
   },
   "engines": {
     "node": "0.10.x"
